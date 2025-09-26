@@ -1,0 +1,9 @@
+git clone <linK>
+git branch - to check branches
+git status - to check status of branch
+git switch <branch_name> - to switch to branch
+git add . - to stage the fiel
+git commit -m "your message" - for commiting
+git push origin <branch_name> - for pushing the code
+git branch -d <branch_name> - use -D if -d doesn't work
+git pull - always do it from main branch
